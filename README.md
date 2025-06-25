@@ -3,8 +3,7 @@ Cyborg is a telegram chatbot that has been designed to answers queries of the fi
 
 ## Usage instructions:
 
-Open telegram and search for @cyborg_gcs_bot.  Here is the direct link : [https://t.me/cyborg_gcs_bot](https://t.me/cyborg_gcs_bot) . 
-
+Open telegram and search for @cyborg_gcs_bot.  Here is the direct link : [@InniMini_bot](https://t.me/InniMini_bot)
 The bot accepts the following commands:
 
 - **/start** : This starts the bot and it is now ready to receive queries.
