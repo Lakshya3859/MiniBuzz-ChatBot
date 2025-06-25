@@ -17,8 +17,9 @@ Cyborg is able to answer queries of the following type:
 - programming : PC club queries, programming errors, suggestions, doubts and any other programming related queries!
 
 
+![Screenshot 2025-06-25 at 10 43 39 PM](https://github.com/user-attachments/assets/11807894-71f2-4541-8e25-6372e614cf80)
 
-<img src="screenshot.jpeg" alt="chat" style="zoom:75%;" />
+
 
 
 
