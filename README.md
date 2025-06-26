@@ -1,5 +1,5 @@
 # MiniBuzz
-Cyborg is a telegram chatbot that has been designed to answers queries of the first year students. 
+MiniBuzz is a telegram chatbot that has been designed to answers queries of the first year students. 
 
 ## Usage instructions:
 
