@@ -3,13 +3,13 @@ MiniBuzz is a telegram chatbot that has been designed to answers queries of the 
 
 ## Usage instructions:
 
-Open telegram and search for @cyborg_gcs_bot.  Here is the direct link : [@InniMini_bot](https://t.me/InniMini_bot)
+Here is the direct link : [@InniMini_bot](https://t.me/InniMini_bot)
 The bot accepts the following commands:
 
 - **/start** : This starts the bot and it is now ready to receive queries.
 - **/help** : Help command
 
-Cyborg is able to answer queries of the following type:
+MiniBuzz is able to answer queries of the following type:
 
 - General : Telling jokes, my age, cheering up the mood!
 - GCS : FAQs asked by freshers about various things related to college
